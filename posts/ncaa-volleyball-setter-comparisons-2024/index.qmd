@@ -1,0 +1,41 @@
+---
+title: "What Makes an All-American Setter?"
+author: "Dominic Sander"
+date: '2025-11-11'
+categories: [volleyball, ncaa, setters, all-american, b1g ten, bergen reilly]
+image: "image.png"
+format: 
+  html:
+    code-fold: true
+---
+
+Bergen Reilly is known across the country as one of the best, yet she wasn't awarded a first-team all-american honor in 2024. 
+
+```{r}
+library(tidyverse)
+
+#reading data into code chunk
+
+#head(data)
+```
+
+```{r}
+#data wrangling
+```
+
+```{r}
+#data visualization 1
+```
+Explanation 1
+
+```{r}
+#data visualization 2
+```
+Explanation 2
+
+```{r}
+#data visualization 3
+```
+Explanation 3
+
+
