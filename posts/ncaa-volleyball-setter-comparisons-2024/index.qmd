@@ -9,14 +9,13 @@ format:
     code-fold: true
 ---
 
-Bergen Reilly is known across the country as one of the best, yet she wasn't awarded a first-team all-american honor in 2024. 
+Bergen Reilly is known across the country as one of the best, yet she wasn't awarded a first-team all-american honor in 2024.
 
 ```{r}
 library(tidyverse)
+vb <- read_csv("")
 
-#reading data into code chunk
-
-#head(data)
+head(vb)
 ```
 
 ```{r}
@@ -26,16 +25,17 @@ library(tidyverse)
 ```{r}
 #data visualization 1
 ```
+
 Explanation 1
 
 ```{r}
 #data visualization 2
 ```
+
 Explanation 2
 
 ```{r}
 #data visualization 3
 ```
+
 Explanation 3
-
-
